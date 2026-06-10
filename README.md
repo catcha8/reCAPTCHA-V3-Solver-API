@@ -1,6 +1,6 @@
 # reCAPTCHA-V3-Solver-API
-I'll post an update in the next days..
 
-DEMO -> [https://www.youtube.com/watch?v=4QvcdvRT6X8](https://www.youtube.com/watch?v=4QvcdvRT6X8)
+<img width="508" height="412" alt="image" src="https://github.com/user-attachments/assets/9137516b-4383-4f1e-b616-8e9fecae74e7" />
 
-Discord: catcha80 or [https://discord.gg/qccqwcTt9Q](https://discord.gg/qccqwcTt9Q)
+[https://t.me/NSLSolver](https://t.me/NSLSolver)
+[https://nslsolver.com/](https://nslsolver.com/)
